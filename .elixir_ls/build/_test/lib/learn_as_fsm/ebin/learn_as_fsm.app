@@ -4,7 +4,7 @@
          [kernel,stdlib,elixir,logger,runtime_tools,phoenix,phoenix_ecto,
           ecto_sql,postgrex,phoenix_html,phoenix_live_view,floki,
           phoenix_live_dashboard,swoosh,telemetry_metrics,telemetry_poller,
-          gettext,jason,plug_cowboy]},
+          gettext,jason,plug_cowboy,as_fsm]},
      {description,"learn_as_fsm"},
      {modules,
          ['Elixir.LearnAsFsm','Elixir.LearnAsFsm.Application',
